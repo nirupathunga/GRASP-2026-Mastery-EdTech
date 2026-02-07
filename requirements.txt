@@ -1,0 +1,8 @@
+fastapi[standard]
+uvicorn
+openai
+deepgram-sdk
+pytesseract
+pymupdf4llm
+apscheduler
+python-dotenv
